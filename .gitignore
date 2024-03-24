@@ -2,3 +2,5 @@
 venv
 **/__pycache__/
 app_container\edu_apps\db.sqlite3
+app_container\edu_apps\food\migrations\__pycache__
+*.pyc
